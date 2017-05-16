@@ -1,0 +1,17 @@
+{
+    "name": "cormorantunicase-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Christian Thalmann"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/cormorantunicase-bower.git"
+    },
+    "description": "Cormorant Unicase font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
